@@ -1,0 +1,25 @@
+HTTP request sent, awaiting response... 200 OK
+Length: 217977171 (208M)
+Saving to: ‘data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q3_dr11.parquet’
+
+
+
+2022-07-13 13:33:28 (448 KB/s) - ‘data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q3_dr11.parquet’ saved [217977171/217977171]
+
+--2022-07-13 13:33:28--  https://irsa.ipac.caltech.edu/data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q4_dr11.parquet
+Reusing existing connection to irsa.ipac.caltech.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 204623675 (195M)
+Saving to: ‘data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q4_dr11.parquet’
+
+
+
+2022-07-13 14:13:37 (111 KB/s) - Read error at byte 129695744/204623675 (Connection timed out). Retrying.
+
+--2022-07-13 14:13:38--  (try: 2)  https://irsa.ipac.caltech.edu/data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q4_dr11.parquet
+Connecting to irsa.ipac.caltech.edu (irsa.ipac.caltech.edu)|134.4.54.110|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 204623675 (195M), 74927931 (71M) remaining
+Saving to: ‘data/ZTF/lc/lc_dr11/0/field000542/ztf_000542_zr_c04_q4_dr11.parquet’
+
+r_c04_q4_dr11.parqu  63%[++++++++++++        ] 124,59M  54,4KB/s    eta 43m 38s_c04_q4_dr11.parque  63%[++++++++++++        ] 124,60M  56,4KB/s    eta 42m 5s c04_q4_dr11.parquet  63%[++++++++++++        ] 124,62M  59,2KB/s    eta 42m 5s 04_q4_dr11.parquet   63%[++++++++++++        ] 124,63M  57,6KB/s    eta 42m 5s 4_q4_dr11.parquet    63%[++++++++++++        ] 124,65M  56,5KB/s    eta 41m 27s_q4_dr11.parquet     63%[++++++++++++        ] 124,66M  51,8KB/s    eta 41m 27sq4_dr11.parquet      63%[++++++++++++        ] 124,68M  50,4KB/s    eta 41m 27s4_dr11.parquet       63%[++++++++++++        ] 124,70M  46,2KB/s    eta 41m 27s_dr11.parquet        63%[++++++++++++        ] 124,71M  42,7KB/s    eta 41m 56sdr11.parquet         63%[++++++++++++        ] 124,73M  39,9KB/s    eta 41m 56sr11.parquet          63%[++++++++++++        ] 124,74M  36,5KB/s    eta 42m 36s11.parquet           63%[++++++++++++        ] 124,76M  34,9KB/s    eta 42m 36s1.parquet            63%[++++++++++++        ] 124,77M  33,6KB/s    eta 42m 42s.parquet             63%[++++++++++++        ] 124,79M  33,4KB/s    eta 42m 42sparquet              63%[++++++++++++        ] 124,80M  33,3KB/s    eta 42m 42s
